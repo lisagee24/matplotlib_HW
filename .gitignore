@@ -1,3 +1,12 @@
+﻿#Ignore solved
+Solved
+
+#Ignore lesson plans
+LessonPlan.md
+
+#Ignore Timetracker
+TimeTracker.xlsx
+
 # nbgrader database file
 gradebook.db
 

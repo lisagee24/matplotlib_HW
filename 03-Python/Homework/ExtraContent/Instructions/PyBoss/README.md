@@ -6,7 +6,7 @@ In this challenge, you get to be the _boss_. You oversee hundreds of employees a
 
 Your task is to help bridge the gap by creating a Python script able to convert your employee records to the required format. Your script will need to do the following:
 
-* Import the `employee_data1.csv` and `employee_data2.csv` files, which currently holds employee records like the below:
+* Import the `employee_data.csv` file, which currently holds employee records like the below:
 
 ```csv
 Emp ID,Name,DOB,SSN,State
